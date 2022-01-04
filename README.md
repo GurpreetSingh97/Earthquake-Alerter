@@ -12,5 +12,8 @@ Clicking on any row in the list view will open a website with more detailed info
 
 <img src="https://github.com/GurpreetSingh97/TheEarthquakeAndroidApp/blob/master/screenshots/website.png" alt="Image1" width="200" height="350">
 
-Download the [TheEarthquakeApp.apk](https://github.com/GurpreetSingh97/TheEarthquakeAndroidApp/tree/master/apkFile) file and run it either on an emulator or an android phone.
+# How to run the app:  
+Download the [TheEarthquakeApp.apk](https://github.com/GurpreetSingh97/TheEarthquakeAndroidApp/tree/master/apkFile) file on an android phone and install it.  
+OR  
+Click on the following [link](https://appetize.io/app/pda6cr3t8p58w6zcguk3j04fq8?device=nexus5&osVersion=8.1&scale=75) to run the app in a virtual emulator.
 
