@@ -1,4 +1,4 @@
-# TheEarthquakeApp
+# Earthquake Alerter
 
 TheEarthquakeApp is an Android application that provides users with a convenient way to access a list of recent earthquakes from around the world. With a user-friendly interface and customizable options, this app is designed to keep users informed about seismic activities.
 
